@@ -5515,8 +5515,8 @@
   "description": "Intelligent Azure architecture diagram generator using AI agents, MCP service validation, and comprehensive Azure component library. Features automatic import correction, component validation, and professional diagram rendering.",
   "authorUrl": "https://github.com/passadis",
   "author": "Konstantinos Passadis", 
-  "source": "https://github.com/passadis/ai-architect-webapp",
-  "preview": "https://github.com/passadis/ai-architect-webapp/images/ai-architect-architecture.png",
+  "source": "https://github.com/passadis/ai-architect-mcp",
+  "preview": "https://github.com/passadis/ai-architect-mcp/ArchitectAIMCP.png",
   "tags": [
     "terraform",
     "fastapi",
